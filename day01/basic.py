@@ -45,3 +45,18 @@ System.out.println(i);
 """
 
 print(input())
+
+"""
+class test {
+    void method(){
+        for(int i=0; i<10; i++) {
+            
+        }
+    }
+}
+"""
+
+class test:
+    def fun(self):
+        for i in range(10):
+            print(i)
